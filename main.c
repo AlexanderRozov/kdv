@@ -1,3 +1,6 @@
+// simple KDV solution
+// A.S .Rozov 02.01.2022
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
