@@ -1,4 +1,4 @@
-// simple KDV solution
+// simple parallel KDV solution
 // A.S .Rozov 02.01.2022
 
 #include <stdio.h>
